@@ -2,7 +2,7 @@
  
 Library of configurations for intentionally weird and offbeat AI characters. 
 
-These can be used in just about any platform that supports AI -human "interaction" - but I try most of these out on speech to speech platforms. 
+These can be used in just about any platform that supports AI -human "interaction" - but I try most of these out on speech to speech platforms (Play.ai, Vapi, etc)
 
 Unlike some of my AI agents/assistants that I hope will do something useful, nothing too serious or ambitious is intended here, although sometimes I try to see if these characters can actually be unexpectedly insightful or profound. 
 
