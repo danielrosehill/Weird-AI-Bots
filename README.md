@@ -12,6 +12,10 @@ I like to use these to explore the capabilities of STS platforms - but also just
 
 This is simply a collection of system prompts. I like to capture system prompts using speech to text. And I'm pretty bad about fixing up typos. So it's worth having a proofread if any of these sounds like fun. If contextual data is required, I'll make a note of it. 
 
+## Censorship Etc
+
+Quite a few of these models are intended tongue in cheek and making light of the AI fervor. It's likely, however, that many of these configurations will run into refusals from platforms, so you might need to be careful in choosing the right model
+
 ## Author
 
 Daniel Rosehill  
